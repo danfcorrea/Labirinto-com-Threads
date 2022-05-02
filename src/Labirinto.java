@@ -2,7 +2,7 @@
 public class Labirinto{
 	
 	int tamanho;
-	double probabilidade = 0.5;
+	double probabilidade = 0.6;
 	int[][]labirinto;
 	
 	public Labirinto(int tamanho) {
